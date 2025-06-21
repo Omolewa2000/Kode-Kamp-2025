@@ -2,15 +2,15 @@
 
 **Vagrant Initialization**
 
-![vagrant initialization](image.png)
+![vagrant initialization](images/image.png)
 
 Vagrant is initialised  - The vagrant init command is used to initialize a new Vagrant project. It sets up a folder with a basic Vagrantfile that defines how the virtual machine (VM) should be created and configured.
 
 **Spining a Vagrant Server**
 
-![vagrant up](image-1.png)
+![vagrant up](images/image-1.png)
 
-![vagrant up](image-3.png)
+![vagrant up](images/image-3.png)
 
 Spining the VM
 
@@ -18,7 +18,7 @@ The command vagrant up is used to start and provision the Vagrant-managed virtua
 
 **SSH into the server.**
 
-![vagrant ssh](image-4.png)
+![vagrant ssh](images/image-4.png)
 
 Connecting to the VM with vagrant ssh
 
@@ -26,7 +26,7 @@ The command vagrant ssh allows one to securely log into the virtual machine that
 
 ## Exploring the Linux File System
 
-![mkdir ](image-5.png)
+![mkdir ](images/image-5.png)
 
 mkdir -p /home/vagrant/projects/devops
 
@@ -36,7 +36,7 @@ Uses -p to create any missing parent directories:
 
 If /home/vagrant/projects doesn’t exist, it creates it too
 
-![chown and chmod](image-6.png)
+![chown and chmod](images/image-6.png)
 
 **Manage File Permissions and Ownership**
 
@@ -79,7 +79,7 @@ The key difference is that I added execute permissions and removed group write.
 
 ##  Test Remote Connectivity
 
-![Ping Test](image-7.png)
+![Ping Test](images/image-7.png)
 
 The ping command is a network diagnostic tool used to test connectivity between your computer and another device (host) on a network — like a website, server, or another machine.
 
@@ -102,8 +102,10 @@ What the Output Shows
 | `rtt min/avg/max/mdev`   | Statistics for round-trip time (min, average, max, deviation) |
 
 
+
 **Install and Configure a Package**
-![apt install package](image-8.png)
+
+![apt install package](images/image-8.png)
 
 Nginx version
-![Nginx Version](image-1.png)
+![Nginx Version](images/image-9.png)
