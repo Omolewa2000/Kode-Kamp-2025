@@ -1,6 +1,6 @@
 # Shell Fundamentals - Interactive To-Do List Manager
 
-This is a simple, interactive command-line To-Do List manager built with Bash scripting. This project demonstrates fundamental shell scripting concepts including user input handling, file operations, loops, and conditional statements.
+This is a simple, interactive command-line To-Do List manager built with Bash scripting. This project demonstrates fundamental shell scripting concepts, including user input handling, file operations, loops, and conditional statements.
 
 ## Features
 
@@ -12,7 +12,7 @@ This is a simple, interactive command-line To-Do List manager built with Bash sc
 - ✅ **Input Validation**: Handles invalid inputs gracefully
 
 
-![create the script](screenshot/image-10.png)
+![create the script](images/screenshot/image-10.png)
 
 I created the script using the vi editor
 
