@@ -54,7 +54,7 @@ When you run the script, you'll see an interactive menu with the following optio
 - Displays all your current tasks with line numbers
 - Shows "No tasks found" if your list is empty
 
-![View Task](screenshot/image-14.png)
+![View Task](images/screenshot/image-14.png)
 *Display of all current tasks with numbered lines*
 
 ### Option 2: Add a New Task
@@ -62,7 +62,7 @@ When you run the script, you'll see an interactive menu with the following optio
 - Saves the task to `~/todo.txt`
 - Validates that the task is not empty
 
-![Add Task](screenshot/image-15.png)
+![Add Task](images/screenshot/image-15.png)
 *Demonstration of adding a new task to the to-do list*
 
 ### Option 3: Delete a Task
@@ -70,7 +70,7 @@ When you run the script, you'll see an interactive menu with the following optio
 - Prompts you to enter the number of the task to delete
 - Validates the input and confirms deletion
 
-![Delete Task](screenshot/image-16.png)
+![Delete Task](images/screenshot/image-16.png)
 *Process of deleting a specific task by its number*
 
 
@@ -78,7 +78,7 @@ When you run the script, you'll see an interactive menu with the following optio
 - Safely exits the program
 - Shows where your tasks are saved
 
-![Exit Program](screenshot/image-17.png)
+![Exit Program](images/screenshot/image-17.png)
 *Exit message showing where tasks are saved*
 
 ## Technical Implementation
